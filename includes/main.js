@@ -21,6 +21,13 @@ var pictures = [
 
 function initiateApp(){
 		$("#gallery").sortable();
+//			update: function(makeGallery) {
+//				var newOrder = $('#gallery').sortable('serialize');
+//				console.log(newOrder);
+//			}
+//		});
+//		$("#gallery").disableSelection();
+
 		/*advanced: add jquery sortable call here to make the gallery able to be sorted
 		//on change, rebuild the images array into the new order
 	*/
